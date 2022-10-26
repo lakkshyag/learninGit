@@ -6,7 +6,7 @@ int main()
 {
     int x,y;
     cin>>x>>y;
-    cout<<x+y;
+    cout<<"The sum is: "<<x+y;
 
     return 0;
 }
